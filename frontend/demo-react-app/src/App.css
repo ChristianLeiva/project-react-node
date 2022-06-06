@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+.colspan{
+    text-align: center;
+}
+
+table,tr ,td{
+    border: 1px solid brown;
+}
